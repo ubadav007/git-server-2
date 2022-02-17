@@ -22,3 +22,9 @@ git branch - To check that branch changed from master to main
 git remote add origin https://github.com/vikas99341/git-15-02.git - Adding remote path (use existing repo or add new and use URL)
 git remote -v - Checking the remote path
 git push -u origin main - Pushing the chages from local to git hub 
+
+
+git fetch - Just tell me if i have the latest content
+git pull origin main - pull the latest content from git hub in case i am lagging
+git clone - Remove the old content and put everything again 
+to merge the change do git pull and avoid merge conflict.
