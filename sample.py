@@ -25,3 +25,7 @@ git push -u origin main - Pushing the chages from local to git hub
 
 
 
+git fetch - Just tell me if i have the latest content
+git pull origin main - pull the latest content from git hub in case i am lagging
+git clone - Remove the old content and put everything again 
+to merge the change do git pull and avoid merge conflict.
