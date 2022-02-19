@@ -31,4 +31,5 @@ git clone - Remove the old content and put everything again
 to merge the change do git pull and avoid merge conflict.
 
 
-First-Merge line added
+First-Merge line
+Second-Merge line
