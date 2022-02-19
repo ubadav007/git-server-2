@@ -1,4 +1,4 @@
-"Vikas git commands")
+("Vikas git commands")
 sudo su -  -Switch to super user
 yum install git -y  - To install git 
 git --version - To check if git is installed
@@ -27,12 +27,4 @@ git push -u origin main - Pushing the chages from local to git hub
 
 git fetch - Just tell me if i have the latest content
 git pull origin main - pull the latest content from git hub in case i am lagging
-git clone - Remove the old content and put everything again 
-to merge the change do git pull and avoid merge conflict.
 
-
-
-First-Merge line
-Second-Merge line
-Third-merge line
-Fourth-Merge line
