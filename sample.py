@@ -1,4 +1,4 @@
-("Vikas git commands")
+"Vikas git commands")
 sudo su -  -Switch to super user
 yum install git -y  - To install git 
 git --version - To check if git is installed
@@ -31,6 +31,6 @@ git clone - Remove the old content and put everything again
 to merge the change do git pull and avoid merge conflict.
 
 
-First-Merge line added
 
-Second merge line
+First-Merge line
+Second-Merge line
