@@ -1,2 +1,4 @@
 this is my first attempt to branch on git.
 Time to kick some butt.
+Holy cow, i love this stuff.
+
